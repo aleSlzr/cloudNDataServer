@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ibm-music-server
+   random-route: false
+   memory: 512M
